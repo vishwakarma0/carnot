@@ -1,0 +1,20 @@
+
+{
+    "first_name": "Muraree",
+    "last_name": "Vishwakarma",
+    "email": "test@gmail.com",
+    "gender": "Male",
+    "books": {
+        "title": "The tale saga",
+        "author_name": "Muraree",
+        "number_of_pages": 15
+    },
+    "school": {
+    "region_id": 101,
+    "school": "sample",
+    "email": "sfs@gmail.com",
+    "principal": "fsdaf",
+    "phone": "5255-568",
+    "address": "gully road"
+    }
+}
